@@ -8,7 +8,7 @@
 
 ## :rocket: Funcionalidades
 
-- Uso da tecnologia SCSS
+- Uso do framework SCSS
 - Uso de propriedades target
 - Eventos (click, transitionend, keydown, load)
 
